@@ -1,7 +1,7 @@
 # Auditbericht: Zusammenfassung (Final)
 
-**Unternehmen:** SecureData GmbH
-**Auditor:** [Dein Name]
+**Unternehmen:** Muster P GmbH
+**Auditor:** Max Mustermann
 **Datum:** 14.02.2026
 
 ## 1. Ergebnisse
