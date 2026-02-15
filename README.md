@@ -41,6 +41,3 @@ Ich prüfe die Umsetzung der Maßnahmen durch Interviews, Dokumentenprüfung und
 ---
 
 **Disclaimer**: Dieses Repository ist ein fiktives Mock-Audit und dient ausschließlich zu Bildungs- und Demonstrationszwecken. Es ersetzt keine Rechtsberatung oder formale aufsichtliche Dokumentation.
-**Kontakt:** [Dein Name] | [Dein LinkedIn/E-Mail]
-
-**Disclaimer**: Dieses Repository ist ein fiktives Mock-Audit und dient ausschließlich zu Bildungs- und Demonstrationszwecken. Es ersetzt keine Rechtsberatung oder formale aufsichtliche Dokumentation.
