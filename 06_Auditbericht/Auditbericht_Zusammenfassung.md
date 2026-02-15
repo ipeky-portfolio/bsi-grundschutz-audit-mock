@@ -16,7 +16,7 @@ Das Informationssicherheits-Managementsystem (ISMS) der SecureData GmbH ist **gr
 * **Empfehlung:** Sofortige Anpassung der Firewall-Regeln auf das **Least-Privilege-Prinzip**.
 
 ### Befund ID: B-02 (MINOR)
-* **Baustein:** `SYS.1.2.1` (Arbeitsplatz-PC)
+* **Baustein:** `SYS.2.1`, `SYS.2.2.3`  (Arbeitsplatz-PC)
 * **Beschreibung:** Die Festplattenverschlüsselung (BitLocker) ist auf 3 von 20 Admin-Workstations nicht aktiv.
 * **Risiko:** Datenabfluss bei Verlust der Laptops.
 * **Empfehlung:** Aktivierung mittels Gruppenrichtlinie (GPO) erzwingen.
