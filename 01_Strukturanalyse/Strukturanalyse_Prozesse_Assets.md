@@ -1,9 +1,9 @@
-# Strukturanalyse der SecureData GmbH
+# Strukturanalyse der Muster P GmbH
 
 ## 1. Geschäftsprozesse (Beispiele)
 * **GP 01: Cloud-Hosting:** Bereitstellung von Rechenleistung und Speicher für Kunden.
 * **GP 02: Kunden-Support:** Annahme und Bearbeitung von Störungsmeldungen.
-* **GP 03: IT-Admin:** Wartung und Verwaltung der internen Infrastruktur.
+* **GP 03: IT:** Wartung und Verwaltung der internen Infrastruktur.
 
 ## 2. IT-Assets (Beispiele)
 | Asset-ID | Bezeichnung | Typ | Standort | Prozess-Zuordnung |
